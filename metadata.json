@@ -1,0 +1,6 @@
+{
+  "name": "Sport Project Bari",
+  "description": "Sport Project Bari water polo summer cup tracking applet, containing matches, schedules, standings, scorers, and administrative capabilities.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
